@@ -4,8 +4,8 @@ Author：Alexpon
 
 Environment：Ubuntu 14.10
 
-How to execute：make
-  		./project1.exe
+How to execute：  make
+                  ./project1.exe
 
 Demand：
 *Develop an nondeterministic and interactive game
